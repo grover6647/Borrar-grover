@@ -1,0 +1,9 @@
+SQL Server Ya desde CERO. 
+
+El tutorial está pensado para que pueda ser desarrollado
+por una persona que conoce muy poco de programación. El objetivo de este sitio es 
+poder aprender Microsoft SQL Server en forma sencilla viendo un concepto teórico,
+luego algunos ejercicios resueltos y por último y lo más importante efectuar una 
+serie de ejercicios. Puede desarrollar los ejercicios en el sitio, probarlos y ver los resultados.
+Un conocimiento profundo de SQL Server nos facilitará el desarrollo de páginas dinámicas 
+con ASP y ASP.NET que acceden a una base de datos.
