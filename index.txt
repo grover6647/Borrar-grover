@@ -1,9 +1,30 @@
-SQL Server Ya desde CERO. 
+CUANTO AMO TU LEY
 
-El tutorial está pensado para que pueda ser desarrollado
-por una persona que conoce muy poco de programación. El objetivo de este sitio es 
-poder aprender Microsoft SQL Server en forma sencilla viendo un concepto teórico,
-luego algunos ejercicios resueltos y por último y lo más importante efectuar una 
-serie de ejercicios. Puede desarrollar los ejercicios en el sitio, probarlos y ver los resultados.
-Un conocimiento profundo de SQL Server nos facilitará el desarrollo de páginas dinámicas 
-con ASP y ASP.NET que acceden a una base de datos.
+
+Dm7           G7
+Cuanto amo tu ley
+Dm7            G7
+mi gozo es tu palabra
+Dm7                G7
+lampara es a mis pies
+  A#maj7            Am7
+y lumbrera a mi camminar
+
+Dm7           G7
+guardame en tu ley
+Dm7           G7
+sustentame en tu palabra
+Dm7           G7
+y siempre te alabare
+   A#maj7            Am7
+con rectitud de corazon
+
+=CORO=
+Dm7        A#         A
+Cristo, tu palabra me alienta 
+Dm7        A#         C
+Cristo, tu verdad me sustenta
+Dm7        A#       Am7
+Cristo, guiame en tu ley 
+  Gm        A#       A
+y perfecto mi cammino sera
